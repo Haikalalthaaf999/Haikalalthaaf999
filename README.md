@@ -1,6 +1,6 @@
 ### Hi hengker Haikal 😱😱😱😱😱😱😱
 
-![hitler](/hitler.jpg)
+
 
 <!--
 **Haikalalthaaf999/Haikalalthaaf999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
