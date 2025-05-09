@@ -1,5 +1,13 @@
 # 💫 About Me:
-Heloo Welcome to my profile
+
+<h3 align="center">Welcome, visitors</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Haikalalthaaf999/count.svg?"  />
+</div>
+
 
 
 ## 🌐 Socials:
